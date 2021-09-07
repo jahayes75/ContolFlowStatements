@@ -24,6 +24,7 @@ public class Main {
         //PerfectNumber.isPerfectNumber(28);
         //NumbersToWords.numberToWords(9000);
         //FlourPackProblem.canPack(1,0,5);
+        LargestPrime.getLargestPrime(0);
 
 
     }
